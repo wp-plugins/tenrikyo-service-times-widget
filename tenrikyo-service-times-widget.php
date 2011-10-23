@@ -4,7 +4,7 @@ Plugin Name: Tenrikyo HQ Service Times
 Plugin URI: http://servicetimes.tenrikyo-resource.com
 Description: Displays the current service times at the Tenrikyo Church Headquarters.
 Author: Lewis Nakao - Tenrikyo Resource
-Version: 0.1.1
+Version: 0.1.2
 Author URI: http://wiki.tenrikyo-resource.com/User:Lewdev
 
 This program is distributed in the hope that it will be useful,
