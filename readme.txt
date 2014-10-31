@@ -1,9 +1,9 @@
 === Tenrikyo Service Times Widget ===
 Contributors: lewdev
 Donate link: http://tenrikyo-resource.com
-Tags: tenrikyo, tsutome, religion
+Tags: tenrikyo, otsutome, religion
 Requires at least: 2.0.2
-Tested up to: 2.1
+Tested up to: 4.0
 Stable tag: 4.3
 
 This is a widget that displays the current service times and time chart for the
