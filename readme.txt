@@ -39,6 +39,10 @@ position on the side-bar.
 
 == Upgrade Notice ==
 
+= 0.1.3 =
+* Enabled hover-highlighted rows.
+* Improved code.
+
 = 0.1.2 =
 This widget hasn't been heavily tested on older versions of WordPress, but it seems like it would work just fine.
 
